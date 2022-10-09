@@ -3,8 +3,11 @@ pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   In-the-wild: In-the-wild.html
+  a1: a1.html
+  a2: a2.html
+  b1: b1.html
   ohwhaley: ohwhaley.html
-last_built: 2022-10-09T02:28Z
+last_built: 2022-10-09T02:39Z
 urls:
   reference: https://its-carbitrary.github.io/ohwhaley/reference
   article: https://its-carbitrary.github.io/ohwhaley/articles
