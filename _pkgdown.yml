@@ -26,9 +26,9 @@ reference:
   desc:  Whaley nice description
 - contents:
   - say
-- subtitle: Where are whale puns stored
-- contents:
-  - phrases
 - title: Data
 - contents:
   - cetacean_data
+- title: internal
+  contents:
+  - phrases
