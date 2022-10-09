@@ -26,6 +26,8 @@ library(badger)
 `r badge_devel("fontikar/ohwhaley", "blue")`
 `r badge_lifecycle("experimental", "orange")`
 [![Codecov test coverage](https://codecov.io/gh/its-carbitrary/ohwhaley/branch/master/graph/badge.svg)](https://app.codecov.io/gh/its-carbitrary/ohwhaley?branch=master)
+
+[![codecov](https://codecov.io/gh/its-carbitrary/ohwhaley/branch/master/graph/badge.svg?token=NEYKP3D24U)](https://codecov.io/gh/its-carbitrary/ohwhaley)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 

@@ -7,6 +7,10 @@
 
 [![](https://img.shields.io/badge/devel%20version-0.0.0.9000-blue.svg)](https://github.com/fontikar/ohwhaley)
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Codecov test
+coverage](https://codecov.io/gh/its-carbitrary/ohwhaley/branch/master/graph/badge.svg)](https://app.codecov.io/gh/its-carbitrary/ohwhaley?branch=master)
+
+[![codecov](https://codecov.io/gh/its-carbitrary/ohwhaley/branch/master/graph/badge.svg?token=NEYKP3D24U)](https://codecov.io/gh/its-carbitrary/ohwhaley)
 <!-- badges: end -->
 
 Whale-come! This R package was inspired by
@@ -35,7 +39,7 @@ library(ohwhaley)
 say() 
 #> 
 #>             ------ 
-#>            Get whale soon! 
+#>            What do you call a pod of noisy whales?        An ORCASTRA! 
 #>             ------ 
 #>                \   
 #>                 \  
