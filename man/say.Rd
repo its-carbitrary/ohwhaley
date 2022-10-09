@@ -2,7 +2,7 @@
 % Please edit documentation in R/say.R
 \name{say}
 \alias{say}
-\title{Summon a whale for a customisable pick-me-up}
+\title{Summon a cute whale for a customisable pick-me-up}
 \usage{
 say(what)
 }
@@ -13,7 +13,7 @@ say(what)
 Whale shaped message
 }
 \description{
-Summon a whale for a customisable pick-me-up
+Summon a cute whale for a customisable pick-me-up
 }
 \examples{
 say("You're whale-come")

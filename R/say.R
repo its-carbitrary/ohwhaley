@@ -1,4 +1,4 @@
-#' Summon a whale for a customisable pick-me-up
+#' Summon a cute whale for a customisable pick-me-up
 #'
 #' @param what Whatever phrase you want whale to echo. If not supplied, a random phrase is chosen
 #' @usage say(what)
@@ -26,7 +26,7 @@ say <- function(what){
 
   #Combining message and whale together with sprintf ("%s" in the whale ASCII is replaced by "what")
   out <- sprintf(whale, #Speech bubble
-                 what) #User specified message 
+                 what) #User specified message
 
   #Return whale message
   message(out)
