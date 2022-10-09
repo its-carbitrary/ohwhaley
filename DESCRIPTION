@@ -2,8 +2,8 @@ Package: ohwhaley
 Title: Messages With A Whale-esque Flair
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Fonti",
-           family = "Kar",
+    person(given = "Peter",
+           family = "Ly",
            role = c("aut", "cre"),
            email = "f.kar@unsw.edu.au")
 Description: Prints messages in console with whale ASCII. Whale not?
